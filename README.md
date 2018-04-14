@@ -1,0 +1,2 @@
+# petshop
+Django demo project
